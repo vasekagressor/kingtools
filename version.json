@@ -1,0 +1,9 @@
+{
+    "latest": 44,
+    "version": "1.6.2 Release",
+    "script_url": "https://github.com/vasekagressor/kingtools/raw/refs/heads/main/KingTools.luac",
+    "changes":
+    [
+        "Автообновление"
+    ]
+}
